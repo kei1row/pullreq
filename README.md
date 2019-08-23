@@ -1,2 +1,3 @@
 # Hello, Pull Request
-## author:Keiichiro Nagao
+## author:Keiichiro Naga
+## birthday:26, Aug, 1983o
