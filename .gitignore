@@ -1,2 +1,4 @@
 notebbok/*
 !.gitkeep
+src/*
+!.gitkeep
